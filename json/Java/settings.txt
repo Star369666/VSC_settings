@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/*.class": true,
+        "**/.DS_Store": true
+    },
+    "java.completion.filteredTypes": [
+
+        "java.awt.*",
+        "com.sun.*",
+        "sun.*",
+        "jdk.*",
+        "org.graalvm.*",
+        "io.micrometer.shaded.*"
+    ]
+}
